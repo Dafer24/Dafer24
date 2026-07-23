@@ -94,7 +94,7 @@ Main features:
 ## 📫 Contact
 
 - 💼 LinkedIn
-- 📧 Email (add later)
+- 📧 Email
 
 ---
 
